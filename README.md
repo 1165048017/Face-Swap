@@ -57,6 +57,8 @@ https://github.com/menpo/lsfm
 
 https://github.com/DevendraPratapYadav/FaceMorphing
 
+https://github.com/auduno/clmtrackr
+
 ~~~
 
 Morphing:
@@ -104,4 +106,5 @@ https://github.com/shaoanlu/faceswap-GAN
 https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
 https://github.com/YadiraF/PRNet
+https://github.com/wywu/ReenactGAN
 ~~~
