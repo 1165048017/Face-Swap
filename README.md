@@ -88,6 +88,7 @@ https://github.com/KeeganRen/FaceReconstruction
 https://github.com/anhttran/3dmm_cnn
 http://www.openu.ac.il/home/hassner/projects/poses/
 https://github.com/menpo/lsfm
+https://github.com/YadiraF/PRNet
 https://github.com/MarekKowalski/FaceSwap
 
 Video:
@@ -108,7 +109,6 @@ http://www.openu.ac.il/home/hassner/projects/CNN3DMM/
 https://github.com/shaoanlu/faceswap-GAN
 https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
-https://github.com/YadiraF/PRNet
 https://github.com/wywu/ReenactGAN
 https://github.com/taylorlu/FaceConverter
 ~~~
