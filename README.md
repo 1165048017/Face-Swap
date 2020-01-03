@@ -59,6 +59,8 @@ https://github.com/DevendraPratapYadav/FaceMorphing
 
 https://github.com/auduno/clmtrackr
 
+https://cmsc733.github.io/2019/proj/p2/
+
 ~~~
 
 Morphing:
@@ -86,6 +88,7 @@ https://github.com/KeeganRen/FaceReconstruction
 https://github.com/anhttran/3dmm_cnn
 http://www.openu.ac.il/home/hassner/projects/poses/
 https://github.com/menpo/lsfm
+https://github.com/MarekKowalski/FaceSwap
 
 Video:
 https://github.com/YuvalNirkin/face_video_segment
@@ -107,4 +110,5 @@ https://github.com/quolc/neural-collage
 https://github.com/aerophile/awesome-deepfakes
 https://github.com/YadiraF/PRNet
 https://github.com/wywu/ReenactGAN
+https://github.com/taylorlu/FaceConverter
 ~~~
